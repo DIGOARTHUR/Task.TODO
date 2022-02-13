@@ -10,7 +10,7 @@ https://simpleicons.org/?q=react
 -->
 
 <p align="center">
-  <img  alt="skills"  width="1400" height="180" src="https://user-images.githubusercontent.com/59892368/153731943-b50bd9e6-b88a-4653-8ff6-ee13f8850d9a.png">
+  <img  alt="skills"  width="950" height="180" src="https://user-images.githubusercontent.com/59892368/153731943-b50bd9e6-b88a-4653-8ff6-ee13f8850d9a.png">
 </p> 
 
 ![GitHub](https://img.shields.io/github/license/digoarthur/Task.TODO)
@@ -46,7 +46,7 @@ https://simpleicons.org/?q=react
     
  
   <h1 align="center">
-  <img alt="move.it" title="move.it" src="https://user-images.githubusercontent.com/59892368/153732380-eb4f896d-23e3-44cd-8ccd-5ca75a34a80e.svg" />
+  <img width="100" height="100" alt="move.it" title="move.it" src="https://user-images.githubusercontent.com/59892368/153732380-eb4f896d-23e3-44cd-8ccd-5ca75a34a80e.svg" />
 </h1>
 
 
