@@ -141,7 +141,7 @@ git remote -v
 ```
   
  # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622627-c1eaa513-ca90-49e2-b5b8-c11d369becef.png"> Por quê?  <!---write here : motivation that led to created ; why did you do this program?   -->
-Resolvi apostar no curso da Rocketseat para poder me aprimorar, e acabei me encantando não só pelo os recursos oferecidos, mas também pela a forma como abordam os conceitos. Este foi o meu primeiro desafio na trilha, e com ele um visão de que posso ir mais e mais longe na compreensão desse Mundo que exploro.  
+Resolvi apostar no curso da Rocketseat para poder me aprimorar no FrontEnd utilizando o ReacJS, e acabei me encantando não só pelo os recursos oferecidos, mas também pela a forma como abordam os conceitos e prática. Este foi o meu primeiro desafio na trilha, e com ele uma visão de que posso ir mais e mais longe na compreensão desse Mundo que exploro.  
  
- <a href="https://devdigoarthur.notion.site/ReactJS-93c2209743ad43dcb4e813a4dc93da05">Notion</a>.
+ <!--<a href="https://devdigoarthur.notion.site/ReactJS-93c2209743ad43dcb4e813a4dc93da05">Notion</a>-->
  
