@@ -18,7 +18,7 @@ https://simpleicons.org/?q=react
 
 
 #### Stacks:
- <!------------------------------------Tasks-->
+ <!------------------------------------STACKS-->
 <p align="left">
 
   <a href="https://code.visualstudio.com/"><img  alt="Vscode"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663512-3f83da57-bdfe-4cef-bcc2-feb304a738ff.png"><a/>
@@ -30,8 +30,9 @@ https://simpleicons.org/?q=react
    <a href="https://www.typescriptlang.org/"><img  alt="TypeScript"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149662563-c86be27c-b905-4aaf-b726-fb1146465ea7.png"><a/>
 
 </p>
- <!------------------------------------Applied Concepts-->
      
+ <!------------------------------------BADGES-->
+  
 <a href="https://devdigoarthur.notion.site/math-32c8febe43b342a587db7eec61217ece"> ![Alt ou título da imagem](https://img.shields.io/badge/-Math-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
  <a href="https://devdigoarthur.notion.site/Filter-108eadff67d74e64846c25d30ec496a2"> ![Alt ou título da imagem](https://img.shields.io/badge/-Filter-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
    <a href="https://devdigoarthur.notion.site/Map-a87c73417a064372b122bf448f4c6ed4"> ![Alt ou título da imagem](https://img.shields.io/badge/-Map-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
@@ -44,12 +45,14 @@ https://simpleicons.org/?q=react
 
 ---
     
- 
+  <!------------------------------------PROJECT ICON-->
   <h1 align="center">
   <img width="100" height="100" alt="move.it" title="move.it" src="https://user-images.githubusercontent.com/59892368/153732380-eb4f896d-23e3-44cd-8ccd-5ca75a34a80e.svg" />
 </h1>
 
-
+ <!------------------------------------SUMMARY-->
+   
+  
 <p align="center">
   <a href="https://github.com/DIGOARTHUR/Task.TODO#--sobre-a-aplicação-">Sobre a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/DIGOARTHUR/Task.TODO#--interfaces-"> Interfaces</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
