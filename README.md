@@ -79,20 +79,16 @@ https://simpleicons.org/?q=react
 
 ## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/142231777-8c0e09fa-ac09-4654-89d6-6bb986bde09b.gif"> Pontos abordados: <!---write here: learned concepts ;    -->
 
-<!--
-* `Array e Objeto JS` (uso do map)
-* `CSS` (Grid e FlexBox)
+
+* `JS` (Map, Spread)
+* `SASS` 
 * React
-  * [`Propriedade`](https://devdigoarthur.notion.site/Propriedades-c51db4c88a264741bb09389fe20a25f7) (Aplicar passagem de propriedades nos Componentes)
+  <!--* [`Propriedade`](https://devdigoarthur.notion.site/Propriedades-c51db4c88a264741bb09389fe20a25f7) (Aplicar passagem de propriedades nos Componentes)-->
   * [`Componente`](https://devdigoarthur.notion.site/Componentes-bc3ca1ebd97d4ccc8d11e6ab668eeb73) ( Divisão de elementos da aplicação)
   * [`Estado`](https://devdigoarthur.notion.site/Estado-e7c7508cb6bd4d81984ba5e8e50eab67) (UseState() - Controle de mudança de dados)
-  * [`Router`](https://devdigoarthur.notion.site/Router-be30e083aad146eea64c89258434a024) ((Navegação pela a aplicação))
-  -->
+* [`React-Icons`](https://react-icons.github.io/react-icons/) (Apliação de ícones para personalizar as funcionalidades)
   
-
-
-
-
+  
 
 
 <!--
