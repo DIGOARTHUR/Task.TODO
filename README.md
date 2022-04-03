@@ -121,7 +121,7 @@ yarn install
 3. Rodar aplicativo
 
 ```
-yarn dev
+yarn start
 ```
 
 4. Acesse http://localhost:3000/ e navegue pelo site
