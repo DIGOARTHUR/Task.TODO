@@ -80,7 +80,7 @@ https://simpleicons.org/?q=react
 ## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/142231777-8c0e09fa-ac09-4654-89d6-6bb986bde09b.gif"> Pontos abordados: <!---write here: learned concepts ;    -->
 
 
-* `JS` 
+* JavaScript
    * [`Map`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/map) 
    * [`Spread`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
 *  [`SASS`](https://sass-lang.com) 
