@@ -66,7 +66,7 @@ https://simpleicons.org/?q=react
   
   
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622497-164365e8-f6b0-4f40-bc75-a0ed4da6059b.png">  Sobre a aplicação <!---write here : talk a little about project: what's does, example.  -->
-> **Task.TODO, passada como Desafio I na plataforma de trilha ReactJS-IGNITE da Rockeseat, é uma aplicação para organizar uma lista de tarefas a fazer. Podendo cadastrar, checar e apagar.** 
+> Task.TODO, passada como Desafio I na plataforma de trilha ReactJS-IGNITE da Rockeseat, é uma aplicação para organizar uma lista de tarefas a fazer. Podendo cadastrar, checar e apagar.
 
 
 
@@ -143,6 +143,9 @@ git remote -v
   
  # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622627-c1eaa513-ca90-49e2-b5b8-c11d369becef.png"> Por quê?  <!---write here : motivation that led to created ; why did you do this program?   -->
 Resolvi apostar no curso da Rocketseat para poder me aprimorar no FrontEnd utilizando o ReacJS, e acabei me encantando não só pelo os recursos oferecidos, mas também pela a forma como abordam os conceitos e prática. Este foi o meu primeiro desafio na trilha, e com ele uma visão de que posso ir mais e mais longe na compreensão desse Mundo que exploro.  
+   
+   ---
+  Quero agradecer a Rocketseat por estes eventos, vocês não tem ideia do quanto contribuem para a comunidade. ♥
  
  <!--<a href="https://devdigoarthur.notion.site/ReactJS-93c2209743ad43dcb4e813a4dc93da05">Notion</a>-->
  
