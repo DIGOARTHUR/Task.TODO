@@ -5,7 +5,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 BUILD BADGES
 https://shields.io
-ICONS
+
 https://simpleicons.org/?q=react
 -->
 
@@ -100,7 +100,7 @@ https://simpleicons.org/?q=react
 
 ### Gerenciador / Pacotes
 <a href="https://yarnpkg.com"> ![Alt ou título da imagem](https://img.shields.io/badge/-Yarn-/?logo=Yarn&logoColor=white&color=blue)<a/> 
-
+   * [`React-Icons`](https://react-icons.github.io/react-icons/) (Apliação de ícones para personalizar as funcionalidades)
   
   ### Versionameto
  <a href="https://git-scm.com"> ![Alt ou título da imagem](https://img.shields.io/badge/-Git-/?logo=Git&logoColor=white&color=red)<a/> 
@@ -109,20 +109,6 @@ https://simpleicons.org/?q=react
    
    
 
-## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/142231777-8c0e09fa-ac09-4654-89d6-6bb986bde09b.gif"> Pontos abordados: <!---write here: learned concepts ;    -->
-
-
-* JavaScript
-   * [`Map`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/map) 
-   * [`Spread`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
-*  [`SASS`](https://sass-lang.com) 
-* React
-  <!--* [`Propriedade`](https://devdigoarthur.notion.site/Propriedades-c51db4c88a264741bb09389fe20a25f7) (Aplicar passagem de propriedades nos Componentes)-->
-  * [`Componente`](https://devdigoarthur.notion.site/Componentes-bc3ca1ebd97d4ccc8d11e6ab668eeb73) ( Divisão de elementos da aplicação)
-  * [`Estado`](https://www.w3schools.com/react/react_usestate.asp) (UseState() - Controle de mudança de dados)
-* [`React-Icons`](https://react-icons.github.io/react-icons/) (Apliação de ícones para personalizar as funcionalidades)
-  
-  
 
 
 <!--
