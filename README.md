@@ -37,16 +37,6 @@ https://simpleicons.org/?q=react
 <hr>
 
      
- <!------------------------------------BADGES-->
-  
-<a href="https://devdigoarthur.notion.site/math-32c8febe43b342a587db7eec61217ece"> ![Alt ou título da imagem](https://img.shields.io/badge/-Math-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
- <a href="https://devdigoarthur.notion.site/Filter-108eadff67d74e64846c25d30ec496a2"> ![Alt ou título da imagem](https://img.shields.io/badge/-Filter-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
-   <a href="https://devdigoarthur.notion.site/Map-a87c73417a064372b122bf448f4c6ed4"> ![Alt ou título da imagem](https://img.shields.io/badge/-Map-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
-<a href="https://devdigoarthur.notion.site/Estado-e7c7508cb6bd4d81984ba5e8e50eab67">  ![Alt ou título da imagem](https://img.shields.io/badge/-State-/?logo=CreateReactApp&logoColor=white&color=blue)<a/>
- <a href="https://devdigoarthur.notion.site/Componentes-bc3ca1ebd97d4ccc8d11e6ab668eeb73"> ![Alt ou título da imagem](https://img.shields.io/badge/-Components-/?logo=CreateReactApp&logoColor=white&color=blue)<a/>
-
-
-
 
 
 ---
