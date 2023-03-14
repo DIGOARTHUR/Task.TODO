@@ -34,11 +34,9 @@ https://simpleicons.org/?q=react
  <a href="https://git-scm.com/"><img  alt="Git"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/223381109-88617798-75ae-4f3a-bc4a-1210637f818c.svg"><a/>
   <a href="https://yarnpkg.com"><img  alt="Git"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/197615074-2e78b82c-b853-455c-8920-272cf1ce6399.svg"><a/>   
      
-<hr>
-
-     
 
 
+    
 ---
     
   <!------------------------------------PROJECT ICON-->
