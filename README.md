@@ -9,27 +9,33 @@ ICONS
 https://simpleicons.org/?q=react
 -->
 
-<p align="center">
-  <img  alt="skills"  width="950" height="180" src="https://user-images.githubusercontent.com/59892368/153731943-b50bd9e6-b88a-4653-8ff6-ee13f8850d9a.png">
-</p> 
+ <!------------------------------------BANNER PROJECT-->
 
+![image](https://user-images.githubusercontent.com/59892368/153731943-b50bd9e6-b88a-4653-8ff6-ee13f8850d9a.png)
+
+ <!------------------------------------SHIELDS PROJECT-->
 ![GitHub](https://img.shields.io/github/license/digoarthur/Task.TODO)
 ![GitHub last commit](https://img.shields.io/github/last-commit/digoarthur/Task.TODO)
 
 
-#### Stacks:
  <!------------------------------------STACKS-->
+#### Stacks:
 <p align="left">
 
-  <a href="https://code.visualstudio.com/"><img  alt="Vscode"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663512-3f83da57-bdfe-4cef-bcc2-feb304a738ff.png"><a/>
-  <a href="https://git-scm.com/"><img  alt="Git"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149677999-f5947f0b-e535-4ba2-911c-1c5926045c35.png"><a/>
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img  alt="HTML5"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663188-8298a9bf-f3ce-4881-944f-e94edf37beed.png"><a/>
-   <a href="https://github.com/braziljs/eloquente-javascript"><img  alt="Javascript"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663192-19043371-127c-47f0-8553-0f407c51e2c5.png"><a/>
-   <a href="https://sass-lang.com"><img  alt="SASS"  width="80" height="50" src="https://user-images.githubusercontent.com/59892368/135768301-7f3c942e-1fd1-4867-9c5b-ad78353f0eea.png"><a/>
-   <a href="https://pt-br.reactjs.org/"><img  alt="ReactJS"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/110185477-3255b480-7df1-11eb-8399-07a57b05eefb.png"><a/>
-   <a href="https://www.typescriptlang.org/"><img  alt="TypeScript"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149662563-c86be27c-b905-4aaf-b726-fb1146465ea7.png"><a/>
-
+ <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img  alt="HTML5"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/222955162-5b69600b-8953-45bd-9144-56fb3491d54e.svg"><a/>
+ <a href="https://sass-lang.com"><img  alt="SASS"  width="80" height="50" src="https://user-images.githubusercontent.com/59892368/223991584-175a2777-acde-4c71-947c-7844c64e595b.svg"><a/>
+    <a href="https://pt-br.reactjs.org/"><img  alt="ReactJS"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/210763677-ee1a0283-eea7-45de-9589-86d7c50a8cb0.svg"><a/>
+   <a href="https://www.typescriptlang.org/"><img  alt="TypeScript"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/210762527-ae3afe1f-fe36-46a9-98ad-35dbae4d1adf.svg"><a/>
 </p>
+  
+ <!------------------------------------TOOLS-->
+ #### Tools:
+ <a href="https://code.visualstudio.com/"><img  alt="Vscode"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/223381414-d3066c8b-c3ee-4fae-943d-481857e88000.svg"><a/>
+ <a href="https://git-scm.com/"><img  alt="Git"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/223381109-88617798-75ae-4f3a-bc4a-1210637f818c.svg"><a/>
+  <a href="https://yarnpkg.com"><img  alt="Git"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/197615074-2e78b82c-b853-455c-8920-272cf1ce6399.svg"><a/>   
+     
+<hr>
+
      
  <!------------------------------------BADGES-->
   
@@ -76,6 +82,44 @@ https://simpleicons.org/?q=react
   <video  alt="gif_"  src="https://user-images.githubusercontent.com/59892368/153525041-a7bcff23-9905-4de6-b869-1080e971d34c.mp4"></video>
   </p>
 
+   
+   
+<!------------------------------------LIST: STACKS , LIBS & TOOLS-->
+
+## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/197614534-e12fb94a-b5cf-44ff-8d57-debad7299b0b.png"> Stacks <!---write here: learned concepts; -->
+
+### Lógica 
+*  <a href="https://devdigoarthur.notion.site/Map-a87c73417a064372b122bf448f4c6ed4"> ![Alt ou título da imagem](https://img.shields.io/badge/-TypeScript-/?logo=TypeScript&logoColor=white&color=informational)<a/>
+   * [`TypeScript`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Map) (TypeScript é uma linguagem de programação fortemente tipada que se baseia em JavaScript, oferecendo melhores ferramentas em qualquer escala.)
+     * [`Map`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Map) (Método para iterar uma array, possibilitando retornar uma outra array.)
+     * [`Filter`](https://blog.betrybe.com/javascript/javascript-filter/)(Método para filtrar uma array)
+     * [`Match`](https://www.w3schools.com/js/js_math.asp) (Método para fins matemáticos, cálculos.)
+   
+### Estilização 
+* <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> ![Alt ou título da imagem](https://img.shields.io/badge/-SASS-/?logo=SASS&logoColor=white&color=pink)<a/> 
+  * [`Sass`](https://sass-lang.com) (Pré-processadores)
+  * [`Global Style`]()
+     * [`Variáves`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Using_CSS_custom_properties) (Variáveis aplicados no CSS, como de cores por exemplo)
+     * [`Reset CSS`](https://www.alura.com.br/artigos/o-que-e-reset-css) (Resete de config. de medidas da página)
+  * [`Flexbox`](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) (Posicionamento de elementos)
+   
+### Framework & Libs
+   
+* <a href="https://reactjs.org"> ![Alt ou título da imagem](https://img.shields.io/badge/-ReactJS-/?logo=React&logoColor=white&color=blue)<a/> 
+  * [`Componente`](https://reactjs.org/docs/components-and-props.html) (Uso de componentes)
+  * [`Estado`](https://reactjs.org/docs/state-and-lifecycle.html) (Uso de hooks para controle de estado e ciclo de vida da aplicação)
+
+
+### Gerenciador / Pacotes
+<a href="https://yarnpkg.com"> ![Alt ou título da imagem](https://img.shields.io/badge/-Yarn-/?logo=Yarn&logoColor=white&color=blue)<a/> 
+
+  
+  ### Versionameto
+ <a href="https://git-scm.com"> ![Alt ou título da imagem](https://img.shields.io/badge/-Git-/?logo=Git&logoColor=white&color=red)<a/> 
+ ### IDE
+ <a href="https://code.visualstudio.com"> ![Alt ou título da imagem](https://img.shields.io/badge/-VisualStudioCode-/?logo=VisualStudioCode&logoColor=white&color=informational)<a/>    
+   
+   
 
 ## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/142231777-8c0e09fa-ac09-4654-89d6-6bb986bde09b.gif"> Pontos abordados: <!---write here: learned concepts ;    -->
 
