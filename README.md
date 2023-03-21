@@ -23,7 +23,7 @@ https://simpleicons.org/?q=react
 <p align="left">
 
  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img  alt="HTML5"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/222955162-5b69600b-8953-45bd-9144-56fb3491d54e.svg"><a/>
- <a href="https://sass-lang.com"><img  alt="SASS"  width="80" height="50" src="https://user-images.githubusercontent.com/59892368/223991584-175a2777-acde-4c71-947c-7844c64e595b.svg"><a/>
+ <a href="https://sass-lang.com"><img  alt="SASS"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/223991584-175a2777-acde-4c71-947c-7844c64e595b.svg"><a/>
     <a href="https://pt-br.reactjs.org/"><img  alt="ReactJS"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/210763677-ee1a0283-eea7-45de-9589-86d7c50a8cb0.svg"><a/>
    <a href="https://www.typescriptlang.org/"><img  alt="TypeScript"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/210762527-ae3afe1f-fe36-46a9-98ad-35dbae4d1adf.svg"><a/>
 </p>
@@ -84,7 +84,7 @@ https://simpleicons.org/?q=react
      * [`Match`](https://www.w3schools.com/js/js_math.asp) (Método para fins matemáticos, cálculos.)
    
 ### Estilização 
-* <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> ![Alt ou título da imagem](https://img.shields.io/badge/-SASS-/?logo=SASS&logoColor=white&color=pink)<a/> 
+* <a href="https://sass-lang.com"> ![Alt ou título da imagem](https://img.shields.io/badge/-SASS-/?logo=SASS&logoColor=white&color=pink)<a/> 
   * [`Sass`](https://sass-lang.com) (Pré-processadores)
   * [`Global Style`]()
      * [`Variáves`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Using_CSS_custom_properties) (Variáveis aplicados no CSS, como de cores por exemplo)
